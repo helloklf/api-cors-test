@@ -1,0 +1,26 @@
+{
+  "name": "api-cors-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloklf/api-cors-test.git"
+  },
+  "keywords": [
+    "cors"
+  ],
+  "author": "helloklf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloklf/api-cors-test/issues"
+  },
+  "homepage": "https://github.com/helloklf/api-cors-test#readme"
+}
